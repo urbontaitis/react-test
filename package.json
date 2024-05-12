@@ -49,5 +49,6 @@
   "license": "MIT",
   "devDependencies": {
     "prettier": "^3.2.5"
-  }
+  },
+  "packageManager": "yarn@4.2.2"
 }
